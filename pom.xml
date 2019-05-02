@@ -93,7 +93,7 @@
 	      <url>http://http://ec2-35-154-38-105.ap-south-1.compute.amazonaws.com:8081/repository/mavenrelease//repository/paytm-releases/</url>
 	    </repository>
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>snp</id>
 	      <name>Mitthun Technologies Snapshot Nexus Repository </name>
 	      <url>http://http://ec2-35-154-38-105.ap-south-1.compute.amazonaws.com:8081/repository/mavensnapshot//repository/paytm-snapshots/</url>
 	    </snapshotRepository>
