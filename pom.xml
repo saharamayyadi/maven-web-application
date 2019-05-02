@@ -94,7 +94,7 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Mitthun Technologies Snapshot Nexus Repository </name>
 	      <url>http://52.66.148.86:8081/repository/paytm-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
