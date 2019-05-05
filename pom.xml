@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://ec2-35-154-38-105.ap-south-1.compute.amazonaws.com:8081/repository/mavenrelease//repository/paytm-releases/</url>
+	      <url>http://ec2-52-66-195-1.ap-south-1.compute.amazonaws.com:8081/repository/mavenrelease//repository/mavenrelease//repository/paytm-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>snp</id>
 	      <name>admin</name>
-	      <url>http://ec2-35-154-38-105.ap-south-1.compute.amazonaws.com:8081/repository/mavensnapshot//repository/paytm-snapshots/</url>
+	      <url>http://ec2-52-66-195-1.ap-south-1.compute.amazonaws.com:8081/repository/mavensnapshot//repository/mavensnapshot//repository/paytm-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
