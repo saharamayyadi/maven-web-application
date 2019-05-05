@@ -1,4 +1,4 @@
-node('paytmnode'){
+node(''){
  
  properties([
     buildDiscarder(logRotator(numToKeepStr: '3')),
