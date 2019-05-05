@@ -23,7 +23,7 @@ node(''){
  sh "${mavenHome}/bin/mvn sonar:sonar"
  }     
   
-  stage('UploadArtifactIntoNexus') {
+  stage('UploaddArtifactIntoNexus') {
  
  sh "${mavenHome}/bin/mvn deploy"
  } 
